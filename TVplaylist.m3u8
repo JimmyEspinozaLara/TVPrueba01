@@ -59,7 +59,7 @@ http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47092.ts
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
 #EXTINF:-1 tvg-name="DSPORTS.+(DTS+).co" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png",DirectTV +
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47096.ts
-#EXTINF:-1 tvg-id="Discovery.Channel.co",DISCOVERY 
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).sv",DISCOVERY 
 http://190.0.241.181:8000/play/a07i/index.m3u8
 #EXTINF:-1,De PelŦcula
 http://190.0.241.181:8000/play/a0cn/index.m3u8
