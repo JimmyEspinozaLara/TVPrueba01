@@ -65,7 +65,7 @@ http://190.0.241.181:8000/play/a07i/index.m3u8
 http://190.0.241.181:8000/play/a0cn/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl",Discovery Channel  HD
 http://190.0.241.181:8000/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.H&amp;H.co",Discovery H&H HD
+#EXTINF:-1 tvg-id="Canal.Discovery.Home.&amp;.Health.(Ecuador).ec",Discovery H&H HD
 http://190.0.241.181:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Kids.co",Discovery Kids
 http://190.0.241.181:8000/play/a0di/index.m3u8
