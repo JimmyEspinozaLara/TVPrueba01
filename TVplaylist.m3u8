@@ -55,9 +55,9 @@ http://190.0.241.181:8000/play/a06e/index.m3u8
 http://190.0.241.181:8000/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DirectTV
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47092.ts
-#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",DirectTV 2
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",DirectTV 2
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
-#EXTINF:-1 tvg-name="DSPORTS.+(DTS+).co" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png",DirectTV +
+#EXTINF:-1 tvg-name="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png",DirectTV +
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47096.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).sv",DISCOVERY 
 http://190.0.241.181:8000/play/a07i/index.m3u8
@@ -91,7 +91,7 @@ http://190.0.241.181:8000/play/a0cy/index.m3u8
 http://190.0.241.181:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="Canal.ESPN.4.(Ecuador).ec",ESPN 4HD
 http://190.0.241.181:8000/play/a08t/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.5.(SudamÃ©rica).sv",ESPN 5HD
+#EXTINF:-1 tvg-id="ESPN.5.co",ESPN 5HD
 http://190.0.241.181:8000/play/a0de/index.m3u8
 #EXTINF:-1  tvg-id="ESPN.6.HD.co",ESPN 6 HD
 http://190.0.241.181:8000/play/a02f/index.m3u8
