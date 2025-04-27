@@ -1,217 +1,217 @@
 #EXTM3U
-#EXTINF:-1,A&E
+#EXTINF:-1 tvg-id="A&amp;E.co",A&E
 http://190.0.241.181:8000/play/a08f/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="AMC.HD.co",AMC HD
 http://190.0.241.181:8000/play/a0b9/index.m3u8
-#EXTINF:-1,ATRES SERIES HD
+#EXTINF:-1 tvg-id="ATRES.SERIES.HD.co",ATRES SERIES HD
 http://190.0.241.181:8000/play/a0dj/index.m3u8
-#EXTINF:-1,AVIVAMIENTO
+#EXTINF:-1 tvg-id="DAYSTAR.co",AVIVAMIENTO
 http://190.0.241.181:8000/play/AVIVAMIENTO/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-id="AXN.co",AXN HD
 http://190.0.241.181:8000/play/a0d7/index.m3u8
-#EXTINF:-1,Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim.co",Adult Swim
 http://190.0.241.181:8000/play/a0al/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 tvg-id="Canal.1.co",America TV HD
 http://190.0.241.181:8000/play/a0ad/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 tvg-id="Canal.1.co",America TV HD
 http://190.0.241.181:8000/play/a08v/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 tvg-id="Animal.Planet.co",Animal Planet HD
 http://190.0.241.181:8000/play/a0d0/index.m3u8
-#EXTINF:-1,Baby TV
+#EXTINF:-1 tvg-id="BABY.TV.co",Baby TV
 http://190.0.241.181:8000/play/a0aq/index.m3u8
-#EXTINF:-1,CANAL 13
+#EXTINF:-1 tvg-id="Canal.Trece.co",CANAL 13
 http://190.0.241.181:8000/play/a0cp/index.m3u8
-#EXTINF:-1,CANAL INSTITUCIONAL 
+#EXTINF:-1 tvg-id="Canal.Institucional.co",CANAL INSTITUCIONAL 
 http://190.0.241.181:8000/play/a0cq/index.m3u8
-#EXTINF:-1,CINEFAMILIAR
+#EXTINF:-1 tvg-id="Cinecanal.co",CINEFAMILIAR
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
-#EXTINF:-1,CINEHISPANO
+#EXTINF:-1 tvg-id="Cinecanal.co",CINEHISPANO
 http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
-#EXTINF:-1,CINEPREMIUM
+#EXTINF:-1 tvg-id="Cinemax.co",CINEPREMIUM
 http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
-#EXTINF:-1,CITY TV
+#EXTINF:-1 tvg-id="City.TV.co",CITY TV
 http://190.0.241.181:8000/play/a09d/index.m3u8
-#EXTINF:-1,CLOVER
+#EXTINF:-1 tvg-id="",CLOVER
 http://190.0.241.181:8000/play/a0cr/index.m3u8
-#EXTINF:-1,CNN Espaæol
+#EXTINF:-1 tvg-id="CNN.EspaÃ±ol.co",CNN Espaæol
 http://190.0.241.181:8000/play/a0ar/index.m3u8
-#EXTINF:-1,Canal 24 Horas HD
+#EXTINF:-1 tvg-id="Canal.Trece.co",Canal 24 Horas HD
 http://190.0.241.181:8000/play/a0dm/index.m3u8
-#EXTINF:-1,Canal Uno
+#EXTINF:-1 tvg-id="Canal.1.co",Canal Uno
 http://190.0.241.181:8000/play/a05k/index.m3u8
-#EXTINF:-1,Caracol HD
+#EXTINF:-1 tvg-id="Caracol.co",Caracol HD
 http://190.0.241.181:8000/play/a09o/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.co",Cartoon Network
 http://190.0.241.181:8000/play/a0dh/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 tvg-id="CARTOONITO.co",Cartoonito
 http://190.0.241.181:8000/play/a0do/index.m3u8
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal.co",Cinecanal HD
 http://190.0.241.181:8000/play/a0d4/index.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax.co",Cinemax HD
 http://190.0.241.181:8000/play/a0c2/index.m3u8
-#EXTINF:-1,Cristovision
+#EXTINF:-1 tvg-id="ENLACE.co",Cristovision
 http://190.0.241.181:8000/play/a06e/index.m3u8
-#EXTINF:-1,DHE HD
+#EXTINF:-1 tvg-id="DHE.HD.co",DHE HD
 http://190.0.241.181:8000/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DirectTV
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co",DirectTV
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47092.ts
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",DirectTV 2
+#EXTINF:-1 tvg-id="DSPORTS.2.HD(DTV2HD).co",DirectTV 2
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
-#EXTINF:-1 tvg-name="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png",DirectTV +
+#EXTINF:-1 tvg-id="DSPORTS.+.HD(DTS+HD).co",DirectTV +
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47096.ts
-#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).sv",DISCOVERY 
+#EXTINF:-1 tvg-id="Discovery.Channel.co",DISCOVERY 
 http://190.0.241.181:8000/play/a07i/index.m3u8
-#EXTINF:-1,De PelŦcula
+#EXTINF:-1 tvg-id="Cinecanal.co",De PelŦcula
 http://190.0.241.181:8000/play/a0cn/index.m3u8
-#EXTINF:-1,Discovery Channel  HD
+#EXTINF:-1 tvg-id="Discovery.Channel.co",Discovery Channel  HD
 http://190.0.241.181:8000/play/a0d1/index.m3u8
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 tvg-id="Discovery.H&amp;H.co",Discovery H&H HD
 http://190.0.241.181:8000/play/a08s/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-id="Discovery.Kids.co",Discovery Kids
 http://190.0.241.181:8000/play/a0di/index.m3u8
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 tvg-id="Discovery.Turbo.co",Discovery Science
 http://190.0.241.181:8000/play/a0dr/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 tvg-id="DISCOVERY.HD.THEATER.co",Discovery Theater HD
 http://190.0.241.181:8000/play/a09k/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery.Turbo.co",Discovery Turbo
 http://190.0.241.181:8000/play/a0at/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery.Turbo.co",Discovery Turbo
 http://190.0.241.181:8000/play/a06t/index.m3u8
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.co",Disney Channel
 http://190.0.241.181:8000/play/a0dk/index.m3u8
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 tvg-id="DISNEY.JUNIOR.co",Disney Junior
 http://190.0.241.181:8000/play/a0as/index.m3u8
-#EXTINF:-1,E! Entertainment TV
+#EXTINF:-1 tvg-id="E!.Entertainment.TV.co",E! Entertainment TV
 http://190.0.241.181:8000/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.(Colombia).sv" ,Espn ECU
+#EXTINF:-1 tvg-id="ESPN.co",Espn ECU
 http://190.0.241.181:8000/play/a0da/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv" ,ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN.2.co",ESPN 2 HD
 http://190.0.241.181:8000/play/a0cy/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.3.(Ecuador).ec",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN.3.co",ESPN 3 HD
 http://190.0.241.181:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.4.(Ecuador).ec",ESPN 4HD
+#EXTINF:-1 tvg-id="ESPN.4.co",ESPN 4HD
 http://190.0.241.181:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.5.co",ESPN 5HD
 http://190.0.241.181:8000/play/a0de/index.m3u8
-#EXTINF:-1  tvg-id="ESPN.6.HD.co",ESPN 6 HD
+#EXTINF:-1 tvg-id="ESPN.6.HD.co",ESPN 6 HD
 http://190.0.241.181:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.7.(Ecuador).sv",ESPN 7HD
+#EXTINF:-1 tvg-id="ESPN.7.HD.co",ESPN 7HD
 http://190.0.241.181:8000/play/a0bw/index.m3u8
-#EXTINF:-1,EWTN
+#EXTINF:-1 tvg-id="EWTN.co",EWTN
 http://190.0.241.181:8000/play/a0dw/index.m3u8
-#EXTINF:-1,El Gourmet
+#EXTINF:-1 tvg-id="El.Gourmet.co",El Gourmet
 http://190.0.241.181:8000/play/a0dg/index.m3u8
-#EXTINF:-1,El Gourmet HD
+#EXTINF:-1 tvg-id="El.Gourmet.co",El Gourmet HD
 http://190.0.241.181:8000/play/a089/index.m3u8
-#EXTINF:-1,Enlace
+#EXTINF:-1 tvg-id="ENLACE.co",Enlace
 http://190.0.241.181:8000/play/a0ak/index.m3u8
-#EXTINF:-1,Eurochannel
+#EXTINF:-1 tvg-id="EUROPA.EUROPA.co",Eurochannel
 http://190.0.241.181:8000/play/a0c4/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1 tvg-id="FX.co",FX HD
 http://190.0.241.181:8000/play/a0by/index.m3u8
-#EXTINF:-1,Film&Arts
+#EXTINF:-1 tvg-id="FILM.&amp;.ARTS.co",Film&Arts
 http://190.0.241.181:8000/play/a0ce/index.m3u8
-#EXTINF:-1,Food Network HD
+#EXTINF:-1 tvg-id="Food.Network.co",Food Network HD
 http://190.0.241.181:8000/play/a0dn/index.m3u8
-#EXTINF:-1,Fuente Stereo
+#EXTINF:-1 tvg-id="",Fuente Stereo
 http://190.0.241.181:8000/play/a0cz/index.m3u8
-#EXTINF:-1,Golden HD
+#EXTINF:-1 tvg-id="GOLDEN.HD.co",Golden HD
 http://190.0.241.181:8000/play/a0df/index.m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1 tvg-id="HGTV.co",HGTV
 http://190.0.241.181:8000/play/a0dv/index.m3u8
-#EXTINF:-1,HTV
+#EXTINF:-1 tvg-id="HTV.co",HTV
 http://190.0.241.181:8000/play/a0ch/index.m3u8
-#EXTINF:-1,HTV
+#EXTINF:-1 tvg-id="HTV.co",HTV
 http://190.0.241.181:8000/play/a06u/index.m3u8
-#EXTINF:-1,History 2
+#EXTINF:-1 tvg-id="History.2.co",History 2
 http://190.0.241.181:8000/play/a0c8/index.m3u8
-#EXTINF:-1,History Channel HD
+#EXTINF:-1 tvg-id="History.Channel.co",History Channel HD
 http://190.0.241.181:8000/play/a0d2/index.m3u8
-#EXTINF:-1,ID HD
+#EXTINF:-1 tvg-id="ID.-.Investigation.Discovery.co",ID HD
 http://190.0.241.181:8000/play/a0d8/index.m3u8
-#EXTINF:-1,KANAL DRAMA
+#EXTINF:-1 tvg-id="",KANAL DRAMA
 http://190.0.241.181:8000/play/a0co/index.m3u8
-#EXTINF:-1,LA KALLE
+#EXTINF:-1 tvg-id="",LA KALLE
 http://190.0.241.181:8000/play/a09a/index.m3u8
-#EXTINF:-1,LOVENATURENUEVO
+#EXTINF:-1 tvg-id="Love.Nature.co",LOVENATURENUEVO
 http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
-#EXTINF:-1,La Red HD
+#EXTINF:-1 tvg-id="",La Red HD
 http://190.0.241.181:8000/play/a0dl/index.m3u8
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1 tvg-id="",Las Estrellas HD
 http://190.0.241.181:8000/play/a0dc/index.m3u8
-#EXTINF:-1,Latina HD
+#EXTINF:-1 tvg-id="",Latina HD
 http://190.0.241.181:8000/play/a09p/index.m3u8
-#EXTINF:-1,Lifetime
+#EXTINF:-1 tvg-id="Lifetime.co",Lifetime
 http://190.0.241.181:8000/play/a0dx/index.m3u8
-#EXTINF:-1,MEGA HD
+#EXTINF:-1 tvg-id="",MEGA HD
 http://190.0.241.181:8000/play/a0c7/index.m3u8
-#EXTINF:-1,MI MUSICASALSA
+#EXTINF:-1 tvg-id="",MI MUSICASALSA
 http://190.0.241.181:8000/play/a01o/index.m3u8
-#EXTINF:-1,MUSICAREGGAETON
+#EXTINF:-1 tvg-id="",MUSICAREGGAETON
 http://190.0.241.181:8000/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1,Musicapopular
+#EXTINF:-1 tvg-id="",Musicapopular
 http://190.0.241.181:8000/play/Musicapopular/index.m3u8
-#EXTINF:-1,NTN 24
+#EXTINF:-1 tvg-id="NTN24.co",NTN 24
 http://190.0.241.181:8000/play/a06w/index.m3u8
-#EXTINF:-1,NTN 24 Horas
+#EXTINF:-1 tvg-id="NTN24.co",NTN 24 Horas
 http://190.0.241.181:8000/play/a0ci/index.m3u8
-#EXTINF:-1,Nat Geo HD
+#EXTINF:-1 tvg-id="NAT.GEO.co",Nat Geo HD
 http://190.0.241.181:8000/play/a0d3/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 tvg-id="Nick.Jr.co",Nick Jr
 http://190.0.241.181:8000/play/a0dp/index.m3u8
-#EXTINF:-1,Nuestra Tele
+#EXTINF:-1 tvg-id="NUESTRA.TELE.co",Nuestra Tele
 http://190.0.241.181:8000/play/a0cc/index.m3u8
-#EXTINF:-1,OROMAR TV
+#EXTINF:-1 tvg-id="",OROMAR TV
 http://190.0.241.181:8000/play/a0au/index.m3u8
-#EXTINF:-1,PASIONESNUEVO
+#EXTINF:-1 tvg-id="PASIONES.co",PASIONESNUEVO
 http://190.0.241.181:8000/play/PASIONESNUEVO/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 tvg-id="Paramount.Channel.co",Paramount HD
 http://190.0.241.181:8000/play/a08u/index.m3u8
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 tvg-id="PASIONES.co",Pasiones HD
 http://190.0.241.181:8000/play/a091/index.m3u8
-#EXTINF:-1,RADIO SOL STEREO
+#EXTINF:-1 tvg-id="",RADIO SOL STEREO
 http://190.0.241.181:8000/play/SOLSTEREO/index.m3u8
-#EXTINF:-1,RCN HD
+#EXTINF:-1 tvg-id="RCN.co",RCN HD
 http://190.0.241.181:8000/play/a09n/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 tvg-id="STAR.CHANNEL.co",STAR CHANNEL HD
 http://190.0.241.181:8000/play/a0db/index.m3u8
-#EXTINF:-1,Sony HD
+#EXTINF:-1 tvg-id="Sony.co",Sony HD
 http://190.0.241.181:8000/play/a0d5/index.m3u8
-#EXTINF:-1,Space HD
+#EXTINF:-1 tvg-id="Space.co",Space HD
 http://190.0.241.181:8000/play/a0d9/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 tvg-id="Studio.Universal.co",Studio Universal HD
 http://190.0.241.181:8000/play/a0aa/index.m3u8
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1 tvg-id="",Sun Channel HD
 http://190.0.241.181:8000/play/a0cx/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-id="",TCM
 http://190.0.241.181:8000/play/a0cm/index.m3u8
-#EXTINF:-1,TELECAFE
+#EXTINF:-1 tvg-id="TelecafÃ©.co",TELECAFE
 http://190.0.241.181:8000/play/a09x/index.m3u8
-#EXTINF:-1,TELECARIBE
+#EXTINF:-1 tvg-id="Telecaribe.co",TELECARIBE
 http://190.0.241.181:8000/play/a09w/index.m3u8
-#EXTINF:-1,TELEPACIFICO
+#EXTINF:-1 tvg-id="Telepacifico.co",TELEPACIFICO
 http://190.0.241.181:8000/play/a09e/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-id="TLC.co",TLC
 http://190.0.241.181:8000/play/a0dq/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="TNT.co",TNT HD
 http://190.0.241.181:8000/play/a037/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="TNT.Series.co",TNT Series HD
 http://190.0.241.181:8000/play/a09l/index.m3u8
-#EXTINF:-1,TVE
+#EXTINF:-1 tvg-id="Star.TVE.HD.co",TVE
 http://190.0.241.181:8000/play/a0an/index.m3u8
-#EXTINF:-1,Teleantioquia
+#EXTINF:-1 tvg-id="Teleantioquia.co",Teleantioquia
 http://190.0.241.181:8000/play/a06l/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 tvg-id="Telemundo.co",Telemundo
 http://190.0.241.181:8000/play/a0dt/index.m3u8
-#EXTINF:-1,Telenovelas
+#EXTINF:-1 tvg-id="TNT.Novelas.co",Telenovelas
 http://190.0.241.181:8000/play/a0cg/index.m3u8
-#EXTINF:-1,Telesur
+#EXTINF:-1 tvg-id="",Telesur
 http://190.0.241.181:8000/play/a09b/index.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:-1 tvg-id="",Tooncast
 http://190.0.241.181:8000/play/a0du/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="Universal.TV.co",UNIVERSAL CHANNEL HD
 http://190.0.241.181:8000/play/a0dd/index.m3u8
-#EXTINF:-1,USA
+#EXTINF:-1 tvg-id="",USA
 http://190.0.241.181:8000/play/a0cl/index.m3u8
-#EXTINF:-1,Warner Channel HD
+#EXTINF:-1 tvg-id="Warner.Channel.co",Warner Channel HD
 http://190.0.241.181:8000/play/a0d6/index.m3u8
