@@ -53,7 +53,7 @@ http://190.0.241.181:8000/play/a0c2/index.m3u8
 http://190.0.241.181:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="DHE.HD.co",DHE HD
 http://190.0.241.181:8000/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co",DirectTV
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp",DirectTV
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47092.ts
 #EXTINF:-1 tvg-id="DSPORTS.2.HD(DTV2HD).co",DirectTV 2
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
@@ -63,7 +63,7 @@ http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47096.ts
 http://190.0.241.181:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co",De PelŦcula
 http://190.0.241.181:8000/play/a0cn/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.co",Discovery Channel  HD
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl",Discovery Channel  HD
 http://190.0.241.181:8000/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.H&amp;H.co",Discovery H&H HD
 http://190.0.241.181:8000/play/a08s/index.m3u8
