@@ -63,7 +63,7 @@ http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47092.ts
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
 #EXTINF:-1 tvg-id="DSPORTS.+.HD(DTS+HD).co",DirectTV +
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47096.ts
-#EXTINF:-1 tvg-id="Discovery.Channel.co",DISCOVERY 
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co",RCN 2
 http://190.0.241.181:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co",De PelŦcula
 http://190.0.241.181:8000/play/a0cn/index.m3u8
@@ -103,6 +103,8 @@ http://190.0.241.181:8000/play/a0de/index.m3u8
 http://190.0.241.181:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co",ESPN 7HD
 http://190.0.241.181:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv",ESPN 7HD
+http://187.102.208.83:50000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.co",EWTN
 http://190.0.241.181:8000/play/a0dw/index.m3u8
 #EXTINF:-1 tvg-id="El.Gourmet.co" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png",El Gourmet
@@ -123,6 +125,38 @@ http://190.0.241.181:8000/play/a0dn/index.m3u8
 http://190.0.241.181:8000/play/a0cz/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN.HD.co",Golden HD
 http://190.0.241.181:8000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="HBO.HD.(HBOHD).pe",HBO
+http://187.102.208.83:50000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv",HBO
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46634.ts
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv",HBO 2
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46631.ts
+#EXTINF:-1 tvg-id="HBO.2.(HBOHD).pe",HBO 2
+http://187.102.208.83:50000/play/a0fa/index.m3u8
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.sv",HBO Family
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46633.ts
+#EXTINF:-1 tvg-id="HBO.FAMILY.HD.(HBO.Family.HD).pe",HBO Family
+http://187.102.208.83:50000/play/a0fa/index.m3u8
+#EXTINF:-1 tvg-id="HBO.MUNDI.(HBO.Mundi).pe",HBO Mundi
+http://187.102.208.83:50000/play/a0av/index.m3u8
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.sv",HBO Mundi
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46645.ts
+#EXTINF:-1 tvg-id="",HBO Xtreme
+http://187.102.208.83:50000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv",HBO Xtreme
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46646.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv",HBO Plus
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46636.ts
+#EXTINF:-1 tvg-id="HBO.PLUS.ESTE.HD.(HBO.Plus.Este.HD).pe",HBO Plus
+http://187.102.208.83:50000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id="HBO.SIGNATURE.HD.(HBO.Signature.HD).pe",HBO Signature
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46638.ts
+#EXTINF:-1 tvg-id="",HBO Signature
+http://187.102.208.83:50000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.sv",HBO POP
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46647.ts
+#EXTINF:-1 tvg-id="HBO.POP.(HBOPOP).pe",HBO POP
+http://187.102.208.83:50000/play/a0df/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.co",HGTV
 http://190.0.241.181:8000/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-id="HTV.co",HTV
@@ -145,7 +179,7 @@ http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
 http://190.0.241.181:8000/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-id="",Las Estrellas HD
 http://190.0.241.181:8000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-id="",Latina HD
+#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe",Latina HD
 http://190.0.241.181:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.co",Lifetime
 http://190.0.241.181:8000/play/a0dx/index.m3u8
@@ -155,6 +189,8 @@ http://190.0.241.181:8000/play/a0c7/index.m3u8
 http://190.0.241.181:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="",MUSICAREGGAETON
 http://190.0.241.181:8000/play/MUSICAREGGAETON/index.m3u8
+#EXTINF:-1 tvg-id="M.DEPORTES.HD.(M.Deportes.HD).pe",Movistar Deportes
+http://187.102.208.83:50000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="",Musicapopular
 http://190.0.241.181:8000/play/Musicapopular/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co",NTN 24
@@ -163,6 +199,8 @@ http://190.0.241.181:8000/play/a06w/index.m3u8
 http://190.0.241.181:8000/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-id="NAT.GEO.co",Nat Geo HD
 http://190.0.241.181:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="NICK.HD.(NickHD).pe",Nick 
+http://187.102.208.83:50000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr.co",Nick Jr
 http://190.0.241.181:8000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="NUESTRA.TELE.co",Nuestra Tele
@@ -180,7 +218,7 @@ http://190.0.241.181:8000/play/SOLSTEREO/index.m3u8
 #EXTINF:-1 tvg-id="RCN.co",RCN HD
 http://190.0.241.181:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="Canal.RTS.ec",RTS
-http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46869.ts
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46870.ts
 #EXTINF:-1 tvg-id="STAR.CHANNEL.co",STAR CHANNEL HD
 http://190.0.241.181:8000/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="Sony.co",Sony HD
@@ -191,10 +229,12 @@ http://190.0.241.181:8000/play/a0d9/index.m3u8
 http://190.0.241.181:8000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="",Sun Channel HD
 http://190.0.241.181:8000/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="Canal.TC.TelevisiÃ³n.ec",TC 
+#EXTINF:-1 tvg-id="Canal.TC.Televisión.ec",TC 
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46872.ts
 #EXTINF:-1 tvg-id="",TCM
 http://190.0.241.181:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Teleamazonas.sv",Teleamazonas
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46875.ts
 #EXTINF:-1 tvg-id="TelecafÃ©.co",TELECAFE
 http://190.0.241.181:8000/play/a09x/index.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co",TELECARIBE
