@@ -39,6 +39,8 @@ http://190.0.241.181:8000/play/a0ar/index.m3u8
 http://190.0.241.181:8000/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="Canal.1.co",Canal Uno
 http://190.0.241.181:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RhGPqPFZ/canelatv.png",Canela Tv
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46850.ts
 #EXTINF:-1 tvg-id="Caracol.co",Caracol HD
 http://190.0.241.181:8000/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.co",Cartoon Network
@@ -51,6 +53,8 @@ http://190.0.241.181:8000/play/a0d4/index.m3u8
 http://190.0.241.181:8000/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="ENLACE.co",Cristovision
 http://190.0.241.181:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec",Ecuador TV
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46856.ts
 #EXTINF:-1 tvg-id="DHE.HD.co",DHE HD
 http://190.0.241.181:8000/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp",DirectTV
@@ -101,9 +105,9 @@ http://190.0.241.181:8000/play/a02f/index.m3u8
 http://190.0.241.181:8000/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.co",EWTN
 http://190.0.241.181:8000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-id="El.Gourmet.co",El Gourmet
+#EXTINF:-1 tvg-id="El.Gourmet.co" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png",El Gourmet
 http://190.0.241.181:8000/play/a0dg/index.m3u8
-#EXTINF:-1 tvg-id="El.Gourmet.co",El Gourmet HD
+#EXTINF:-1 tvg-id="El.Gourmet.co" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png",El Gourmet HD
 http://190.0.241.181:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="ENLACE.co",Enlace
 http://190.0.241.181:8000/play/a0ak/index.m3u8
@@ -163,7 +167,7 @@ http://190.0.241.181:8000/play/a0d3/index.m3u8
 http://190.0.241.181:8000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="NUESTRA.TELE.co",Nuestra Tele
 http://190.0.241.181:8000/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-id="",OROMAR TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRqq9q3D/Oromar-logo.png",OROMAR TV
 http://190.0.241.181:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="PASIONES.co",PASIONESNUEVO
 http://190.0.241.181:8000/play/PASIONESNUEVO/index.m3u8
@@ -175,6 +179,8 @@ http://190.0.241.181:8000/play/a091/index.m3u8
 http://190.0.241.181:8000/play/SOLSTEREO/index.m3u8
 #EXTINF:-1 tvg-id="RCN.co",RCN HD
 http://190.0.241.181:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="Canal.RTS.ec",RTS
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46869.ts
 #EXTINF:-1 tvg-id="STAR.CHANNEL.co",STAR CHANNEL HD
 http://190.0.241.181:8000/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="Sony.co",Sony HD
@@ -185,6 +191,8 @@ http://190.0.241.181:8000/play/a0d9/index.m3u8
 http://190.0.241.181:8000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="",Sun Channel HD
 http://190.0.241.181:8000/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="Canal.TC.TelevisiÃ³n.ec",TC 
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46872.ts
 #EXTINF:-1 tvg-id="",TCM
 http://190.0.241.181:8000/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="TelecafÃ©.co",TELECAFE
