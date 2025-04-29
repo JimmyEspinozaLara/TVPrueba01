@@ -139,7 +139,7 @@ http://187.102.208.83:50000/play/a0d0/index.m3u8
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46634.ts
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv",HBO 2
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46631.ts
-#EXTINF:-1 tvg-id="HBO.2.(HBOHD).pe",HBO 2
+#EXTINF:-1 tvg-id="HBO.2.HD.(HBO.2.HD).pe",HBO 2
 http://187.102.208.83:50000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.sv",HBO Family
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46633.ts
