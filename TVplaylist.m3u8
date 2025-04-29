@@ -103,8 +103,10 @@ http://190.0.241.181:8000/play/a0de/index.m3u8
 http://190.0.241.181:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co",ESPN 7HD
 http://190.0.241.181:8000/play/a0bw/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv",ESPN Premium
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv",ESPN Premium Chi
 http://187.102.208.83:50000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TwvRFsyk/large-555726526-es-1-png-5e7a55f4088a439da2417ba70dcb6d25.png",ESPN Premium Arg
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46727.ts
 #EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx",Fox Sports Premiun MX
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47129.ts
 #EXTINF:-1 tvg-id="FOX.SPORTS.mx",Fox Sports 1 MX
