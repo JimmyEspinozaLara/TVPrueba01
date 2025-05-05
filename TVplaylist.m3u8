@@ -255,6 +255,8 @@ http://190.0.241.181:8000/play/a0dq/index.m3u8
 http://190.0.241.181:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Series.co",TNT Series HD
 http://190.0.241.181:8000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png",TNT Sports HD
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46744.ts
 #EXTINF:-1 tvg-id="Star.TVE.HD.co",TVE
 http://190.0.241.181:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co",Teleantioquia
