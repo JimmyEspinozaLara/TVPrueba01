@@ -55,6 +55,8 @@ http://190.0.241.181:8000/play/a0c2/index.m3u8
 http://190.0.241.181:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec",Ecuador TV
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46856.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RhKVh9r5/679a573b4592439398d6645a-logo-ecdf.png",ECDF
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46849.ts
 #EXTINF:-1 tvg-id="DHE.HD.co",DHE HD
 http://190.0.241.181:8000/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp",DirectTV
