@@ -59,13 +59,13 @@ http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46856.ts
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/46849.ts
 #EXTINF:-1 tvg-id="DHE.HD.co",DHE HD
 http://190.0.241.181:8000/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co",DirectTV
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-logo="https://i.postimg.cc/CxwbdCQJ/DSports.png",DirectTV
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47092.ts
 #EXTINF:-1 tvg-id="DSPORTS.2.HD(DTV2HD).co",DirectTV 2
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
 #EXTINF:-1 tvg-id="DSPORTS.+.HD(DTS+HD).co",DirectTV +
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47096.ts
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp",DirectTV
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/FHG3Sdtv/601.png",DirectTV
 http://200.60.124.19:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co",RCN 2
 http://190.0.241.181:8000/play/a07i/index.m3u8
